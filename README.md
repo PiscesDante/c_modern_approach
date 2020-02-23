@@ -1,8 +1,7 @@
 # C_Modern_Approach
+
 C语言程序设计：现代方法 学习笔记🖊
 
-## 说明
+## 概述
 
-[PrintVersion.md](https://github.com/PiscesDante/C_Modern_Approach/blob/master/PrintVersion.md)是各个章节的合并版本，方便打印使用。
-
-当然也是长久更新版本，分章节的文件中可能会有少许错别字和标点的问题。
+该库保存的是 C 语言学习书籍《C语言程序设计：现代方法》的学习笔记。大部分内容会对书中的内容做一个精简总结，或者对一些复杂的地方进行一定的解释。
